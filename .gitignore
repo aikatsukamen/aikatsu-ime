@@ -1,0 +1,6 @@
+dist/
+release/
+RELEASE_BODY.md
+__pycache__/
+*.pyc
+.DS_Store

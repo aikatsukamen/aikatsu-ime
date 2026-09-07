@@ -1,0 +1,47 @@
+{
+  "$comment": [
+    "種別(カテゴリ)の定義。新しい種別を足すときは data/ にCSVを置いてここに1エントリ追加するだけでよい。",
+    "id            : 内部ID。dictionaries.json から参照する",
+    "label         : 表示名",
+    "file          : CSVのパス (リポジトリルートからの相対)",
+    "default_pos   : CSVのpos列が空のときに使われる中間品詞",
+    "default_flags : 全エントリに自動付与されるフラグ (; 区切り)"
+  ],
+  "categories": [
+    {
+      "id": "characters",
+      "label": "キャラクター",
+      "file": "data/characters.csv",
+      "default_pos": "person_full",
+      "default_flags": ""
+    },
+    {
+      "id": "voice_actors",
+      "label": "声優",
+      "file": "data/voice_actors.csv",
+      "default_pos": "person_full",
+      "default_flags": ""
+    },
+    {
+      "id": "songs",
+      "label": "楽曲",
+      "file": "data/songs.csv",
+      "default_pos": "proper_noun",
+      "default_flags": ""
+    },
+    {
+      "id": "brands",
+      "label": "ブランド・コーデ",
+      "file": "data/brands.csv",
+      "default_pos": "proper_noun",
+      "default_flags": ""
+    },
+    {
+      "id": "terms",
+      "label": "作品名・組織・用語",
+      "file": "data/terms.csv",
+      "default_pos": "proper_noun",
+      "default_flags": ""
+    }
+  ]
+}

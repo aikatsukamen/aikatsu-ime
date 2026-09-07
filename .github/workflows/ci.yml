@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate source data
+        run: python src/validate.py
+
+      - name: Build dictionaries
+        run: python src/build.py
+
+      - name: Show summary
+        run: |
+          echo '### ビルド結果' >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo '| 辞書 | 語数 |' >> "$GITHUB_STEP_SUMMARY"
+          echo '| --- | ---: |' >> "$GITHUB_STEP_SUMMARY"
+          python -c "
+          import json
+          m = json.load(open('dist/manifest.json'))
+          for d in m['dictionaries']:
+              print(f\"| {d['label']} (\`{d['id']}\`) | {d['count']} |\")
+          " >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: aikatsu-ime-dist
+          path: dist/
+          retention-days: 14

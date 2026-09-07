@@ -1,0 +1,98 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "リリースタグ (例: v0.1.0)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Resolve tag
+        id: tag
+        run: |
+          if [ -n "${{ github.event.inputs.tag }}" ]; then
+            echo "name=${{ github.event.inputs.tag }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "name=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Validate
+        run: python src/validate.py
+
+      - name: Build
+        run: python src/build.py
+
+      - name: Package
+        id: package
+        env:
+          TAG: ${{ steps.tag.outputs.name }}
+        run: |
+          set -eu
+          mkdir -p release
+          cp LICENSE README.md dist/
+          # 形式ごとのzip
+          for fmt in google msime atok macos; do
+            (cd dist && zip -r "../release/aikatsu-ime-${fmt}-${TAG}.zip" "$fmt" LICENSE README.md)
+          done
+          # 全部入りzip
+          (cd dist && zip -r "../release/aikatsu-ime-all-${TAG}.zip" .)
+          cp dist/manifest.json release/
+          (cd release && sha256sum *.zip > SHA256SUMS.txt)
+          ls -l release
+
+      - name: Generate release notes body
+        env:
+          TAG: ${{ steps.tag.outputs.name }}
+        run: |
+          python - <<'PY' > RELEASE_BODY.md
+          import json, os
+          tag = os.environ["TAG"]
+          m = json.load(open("dist/manifest.json"))
+          print(f"# aikatsu-ime {tag}\n")
+          print("アイカツ！シリーズのキャラクター名・声優名などを収録した非公式のIME辞書です。\n")
+          print("## 収録辞書\n")
+          print("| 辞書 | 語数 | 説明 |")
+          print("| --- | ---: | --- |")
+          for d in m["dictionaries"]:
+              print(f"| `{d['id']}` {d['label']} | {d['count']} | {d['description']} |")
+          print("\n## ダウンロード\n")
+          print("使っているIMEに対応したzipを選んでください。導入手順は README または docs/install.md を参照。\n")
+          print("| IME | ファイル |")
+          print("| --- | --- |")
+          print(f"| Google 日本語入力 / Mozc | `aikatsu-ime-google-{tag}.zip` |")
+          print(f"| Microsoft IME | `aikatsu-ime-msime-{tag}.zip` |")
+          print(f"| ATOK | `aikatsu-ime-atok-{tag}.zip` |")
+          print(f"| macOS ユーザ辞書 | `aikatsu-ime-macos-{tag}.zip` |")
+          print(f"| すべて | `aikatsu-ime-all-{tag}.zip` |")
+          print("\n---\n")
+          print("本リポジトリは非公式のファンプロジェクトです。作品の権利は権利者に帰属します。")
+          PY
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.name }}
+          name: aikatsu-ime ${{ steps.tag.outputs.name }}
+          body_path: RELEASE_BODY.md
+          draft: false
+          prerelease: false
+          files: |
+            release/*.zip
+            release/SHA256SUMS.txt
+            release/manifest.json
