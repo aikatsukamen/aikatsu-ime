@@ -25,7 +25,10 @@ def check(entries: list[Entry]) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warns: list[str] = []
 
-    by_key: dict[tuple[str, str], list[Entry]] = defaultdict(list)
+    # 同一カテゴリ内の重複はエラー。カテゴリをまたぐ重複は許容する
+    # （例: アイカツフレンズ！のユニット名はブランド名としても使われる）。
+    # build.py は辞書の組み立て時にカテゴリをまたいで (よみ, 単語) を重複除去する。
+    by_key: dict[tuple[str, str, str], list[Entry]] = defaultdict(list)
 
     for e in entries:
         loc = e.source
@@ -41,7 +44,7 @@ def check(entries: list[Entry]) -> tuple[list[str], list[str]]:
             errors.append(f"{loc}: 未定義の品詞 '{e.pos}'")
         if "\t" in e.surface or "\n" in e.surface:
             errors.append(f"{loc}: 単語にタブ/改行が含まれる")
-        by_key[(e.reading, e.surface)].append(e)
+        by_key[(e.category, e.reading, e.surface)].append(e)
 
         try:
             (e.reading + e.surface).encode("cp932")
@@ -51,7 +54,7 @@ def check(entries: list[Entry]) -> tuple[list[str], list[str]]:
     for key, dups in by_key.items():
         if len(dups) > 1:
             locs = ", ".join(d.source for d in dups)
-            errors.append(f"よみ・単語の重複: {key[0]} / {key[1]} ({locs})")
+            errors.append(f"よみ・単語の重複: {key[1]} / {key[2]} ({locs})")
 
     return errors, warns
 

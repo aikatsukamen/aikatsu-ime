@@ -1,12 +1,143 @@
 reading,surface,pos,flags,note
-えんじぇりーしゅがー,エンジェリーシュガー,proper_noun,,ブランド
-ぼへみあんすかい,ボヘミアンスカイ,proper_noun,,ブランド
-すぱいしーあげは,スパイシーアゲハ,proper_noun,,ブランド
-ふゅーちゃりんぐがーる,フューチャリングガール,proper_noun,,ブランド
-ろりごしっく,LoLi GoThiC,proper_noun,,ブランド
-さくらあんみつ,桜あんみつ,proper_noun,,ブランド
-どりーみーくらうん,ドリーミークラウン,proper_noun,,ブランド
-う゛ぃう゛ぃっどきす,ヴィヴィッドキス,proper_noun,,ブランド
-びびっどきす,ヴィヴィッドキス,proper_noun,,ブランド(別よみ)
-まじかるとい,マジカルトイ,proper_noun,,ブランド
-はっぴーれいんぼー,ハッピーレインボー,proper_noun,,ブランド
+えんじぇりーしゅがー,Angely Sugar,proper_noun,,ブランド（アイカツ！）
+えんじぇりーしゅがー,エンジェリーシュガー,proper_noun,,ブランド（アイカツ！）
+おーろらふぁんたじー,Aurora Fantasy,proper_noun,,ブランド（アイカツ！）
+おーろらふぁんたじー,オーロラファンタジー,proper_noun,,ブランド（アイカツ！）
+さんぐりあろっさ,Sangria Rosa,proper_noun,,ブランド（アイカツ！）
+さんぐりあろっさ,サングリアロッサ,proper_noun,,ブランド（アイカツ！）
+すいんぐろっく,Swing ROCK,proper_noun,,ブランド（アイカツ！）
+すいんぐろっく,スイングロック,proper_noun,,ブランド（アイカツ！）
+すぱいしーあげは,SPICY AGEHA,proper_noun,,ブランド（アイカツ！）
+すぱいしーあげは,スパイシーアゲハ,proper_noun,,ブランド（アイカツ！）
+だんすふゅーじょん,Dance Fusion,proper_noun,,ブランド（アイカツ！）
+だんすふゅーじょん,ダンスフュージョン,proper_noun,,ブランド（アイカツ！）
+どりーみーくらうん,Dreamy Crown,proper_noun,,ブランド（アイカツ！）
+どりーみーくらうん,ドリーミークラウン,proper_noun,,ブランド（アイカツ！）
+どーりーでびる,Dolly devil,proper_noun,,ブランド（アイカツ！）
+どーりーでびる,ドーリーデビル,proper_noun,,ブランド（アイカツ！）
+はっぴーれいんぼー,HAPPY RAINBOW,proper_noun,,ブランド（アイカツ！）
+はっぴーれいんぼー,ハッピーレインボー,proper_noun,,ブランド（アイカツ！）
+ふゅーちゃりんぐがーる,FUTURING GIRL,proper_noun,,ブランド（アイカツ！）
+ふゅーちゃりんぐがーる,フューチャリングガール,proper_noun,,ブランド（アイカツ！）
+ぼへみあんすかい,Bohemian Sky,proper_noun,,ブランド（アイカツ！）
+ぼへみあんすかい,ボヘミアンスカイ,proper_noun,,ブランド（アイカツ！）
+まじかるとい,MAGICAL TOY,proper_noun,,ブランド（アイカツ！）
+まじかるとい,マジカル トイ,proper_noun,,ブランド（アイカツ！）
+めちゃぱにっく,Mecha PaniQ,proper_noun,,ブランド（アイカツ！）
+めちゃぱにっく,メチャパニック,proper_noun,,ブランド（アイカツ！）
+らぶくいーん,LOVE QUEEN,proper_noun,,ブランド（アイカツ！）
+らぶくいーん,ラブクイーン,proper_noun,,ブランド（アイカツ！）
+らぶむーんらいず,LOVE MOONRISE,proper_noun,,ブランド（アイカツ！）
+らぶむーんらいず,ラブムーンライズ,proper_noun,,ブランド（アイカツ！）
+れとろくろーばー,Retro Clover,proper_noun,,ブランド（アイカツ！）
+れとろくろーばー,レトロクローバー,proper_noun,,ブランド（アイカツ！）
+ろりごしっく,LoLi GoThiC,proper_noun,,ブランド（アイカツ！）
+ろりごしっく,ロリゴシック,proper_noun,,ブランド（アイカツ！）
+びびっどきす,ViVid Kiss,proper_noun,,ブランド（アイカツ！）
+びびっどきす,ヴィヴィッドキス,proper_noun,,ブランド（アイカツ！）
+さくらいろかでん,桜色花伝,proper_noun,,ブランド（アイカツ！）
+まいりとるはーと,My Little Heart,proper_noun,,ブランド（アイカツスターズ！）
+まいりとるはーと,マイリトルハート,proper_noun,,ブランド（アイカツスターズ！）
+べりーぱるふぇ,Berry Parfait,proper_noun,,ブランド（アイカツスターズ！）
+べりーぱるふぇ,ベリーパルフェ,proper_noun,,ブランド（アイカツスターズ！）
+れいんぼーべりーぱるふぇ,Rainbow Berry Parfait,proper_noun,,ブランド（アイカツスターズ！）
+れいんぼーべりーぱるふぇ,レインボーベリーパルフェ,proper_noun,,ブランド（アイカツスターズ！）
+すぱいすこーど,SPICE CHORD,proper_noun,,ブランド（アイカツスターズ！）
+すぱいすこーど,スパイスコード,proper_noun,,ブランド（アイカツスターズ！）
+ごしっくびくとりあ,Gothic Victoria,proper_noun,,ブランド（アイカツスターズ！）
+ごしっくびくとりあ,ゴシックヴィクトリア,proper_noun,,ブランド（アイカツスターズ！）
+ろいやるそーど,Royal Sword,proper_noun,,ブランド（アイカツスターズ！）
+ろいやるそーど,ロイヤルソード,proper_noun,,ブランド（アイカツスターズ！）
+ろまんすきす,Romance Kiss,proper_noun,,ブランド（アイカツスターズ！）
+ろまんすきす,ロマンスキス,proper_noun,,ブランド（アイカツスターズ！）
+ぱーふぇくとくいーん,Perfect Queen,proper_noun,,ブランド（アイカツスターズ！）
+ぱーふぇくとくいーん,パーフェクトクイーン,proper_noun,,ブランド（アイカツスターズ！）
+しゃいにーすまいる,Shiny Smile,proper_noun,,ブランド（アイカツスターズ！）
+しゃいにーすまいる,シャイニースマイル,proper_noun,,ブランド（アイカツスターズ！）
+ふわふわどりーむ,FuwaFuwa Dream,proper_noun,,ブランド（アイカツスターズ！）
+ふわふわどりーむ,フワフワドリーム,proper_noun,,ブランド（アイカツスターズ！）
+しゃいんすたーず,Shine Stars!,proper_noun,,ブランド（アイカツスターズ！）
+しゃいんすたーず,シャインスターズ,proper_noun,,ブランド（アイカツスターズ！）
+しゅがーめろでぃ,Sugar Melody,proper_noun,,ブランド（アイカツフレンズ！）
+しゅがーめろでぃ,シュガーメロディ,proper_noun,,ブランド（アイカツフレンズ！）
+まてりあるからー,MATERIAL COLOR,proper_noun,,ブランド（アイカツフレンズ！）
+まてりあるからー,マテリアルカラー,proper_noun,,ブランド（アイカツフレンズ！）
+みるきーじょーかー,Milky Joker,proper_noun,,ブランド（アイカツフレンズ！）
+みるきーじょーかー,ミルキージョーカー,proper_noun,,ブランド（アイカツフレンズ！）
+くらしかるあんじゅ,Classical Ange,proper_noun,,ブランド（アイカツフレンズ！）
+くらしかるあんじゅ,クラシカルアンジュ,proper_noun,,ブランド（アイカツフレンズ！）
+だんしんぐみらーじゅ,Dancing Mirage,proper_noun,,ブランド（アイカツフレンズ！）
+だんしんぐみらーじゅ,ダンシングミラージュ,proper_noun,,ブランド（アイカツフレンズ！）
+からふるしぇいく,COLORFUL SHAKE,proper_noun,,ブランド（アイカツフレンズ！）
+からふるしぇいく,カラフルシェイク,proper_noun,,ブランド（アイカツフレンズ！）
+るなうぃっち,Luna Witch,proper_noun,,ブランド（アイカツフレンズ！）
+るなうぃっち,ルナウィッチ,proper_noun,,ブランド（アイカツフレンズ！）
+むーんめいでん,Moon Maiden,proper_noun,,ブランド（アイカツフレンズ！）
+むーんめいでん,ムーンメイデン,proper_noun,,ブランド（アイカツフレンズ！）
+あんてぃーくせーらー,Antique Sailor,proper_noun,,ブランド（アイカツフレンズ！）
+あんてぃーくせーらー,アンティークセーラー,proper_noun,,ブランド（アイカツフレンズ！）
+しるきーおーしゃん,Silky Ocean,proper_noun,,ブランド（アイカツフレンズ！）
+しるきーおーしゃん,シルキーオーシャン,proper_noun,,ブランド（アイカツフレンズ！）
+へぶんりーぱふゅーむ,Heavenly Perfume,proper_noun,,ブランド（アイカツフレンズ！）
+へぶんりーぱふゅーむ,ヘヴンリーパフューム,proper_noun,,ブランド（アイカツフレンズ！）
+ぐろりあすすのー,Glorious Snow,proper_noun,,ブランド（アイカツフレンズ！）
+ぐろりあすすのー,グロリアススノー,proper_noun,,ブランド（アイカツフレンズ！）
+はみんぐりーふ,Humming Leaf,proper_noun,,ブランド（アイカツフレンズ！）
+はみんぐりーふ,ハミングリーフ,proper_noun,,ブランド（アイカツフレンズ！）
+ぴゅあぱれっと,Pure Palette,proper_noun,,ブランド（アイカツフレンズ！）
+ぴゅあぱれっと,ピュアパレット,proper_noun,,ブランド（アイカツフレンズ！）
+はにーきゃっと,Honey Cat,proper_noun,,ブランド（アイカツフレンズ！）
+はにーきゃっと,ハニーキャット,proper_noun,,ブランド（アイカツフレンズ！）
+らぶみーてぃあ,Love Me Tear,proper_noun,,ブランド（アイカツフレンズ！）
+らぶみーてぃあ,ラブミーティア,proper_noun,,ブランド（アイカツフレンズ！）
+りふれくとむーん,Reflect Moon,proper_noun,,ブランド（アイカツフレンズ！）
+りふれくとむーん,リフレクトムーン,proper_noun,,ブランド（アイカツフレンズ！）
+べいびーぱいれーつ,BABY PIRATES,proper_noun,,ブランド（アイカツフレンズ！）
+べいびーぱいれーつ,ベイビーパイレーツ,proper_noun,,ブランド（アイカツフレンズ！）
+あいびりーぶ,I Believe,proper_noun,,ブランド（アイカツフレンズ！）
+あいびりーぶ,アイビリーブ,proper_noun,,ブランド（アイカツフレンズ！）
+めーぷるりぼん,Maple Ribbon,proper_noun,,ブランド（アイカツオンパレード！）
+めーぷるりぼん,メープルリボン,proper_noun,,ブランド（アイカツオンパレード！）
+ちあすたー,Cheer Star,proper_noun,,ブランド（アイカツオンパレード！）
+ちあすたー,チアスター,proper_noun,,ブランド（アイカツオンパレード！）
+ちぇりっしゅれたー,Cherish Letter,proper_noun,,ブランド（アイカツアカデミー！）
+ちぇりっしゅれたー,チェリッシュレター,proper_noun,,ブランド（アイカツアカデミー！）
+かれいどうぃんく,Kaleido Wink,proper_noun,,ブランド（アイカツアカデミー！）
+かれいどうぃんく,カレイドウィンク,proper_noun,,ブランド（アイカツアカデミー！）
+ぴぴぴぷれいやー,ピピピプレイヤー！,proper_noun,,ブランド（アイカツアカデミー！）
+るーせんとたいむ,Lucent Time,proper_noun,,ブランド（アイカツアカデミー！）
+るーせんとたいむ,ルーセントタイム,proper_noun,,ブランド（アイカツアカデミー！）
+おーろらぺがさす,オーロラペガサス,proper_noun,,ドレシア（アイカツプラネット！）
+ぺがさすえんじぇる,ペガサスエンジェル,proper_noun,,ドレシア（アイカツプラネット！）
+すまーときゅうび,スマートキュウビ,proper_noun,,ドレシア（アイカツプラネット！）
+ぴゅあふるふぇにっくす,ピュアフルフェニックス,proper_noun,,ドレシア（アイカツプラネット！）
+ぶらいとさふぁいあ,ブライトサファイア,proper_noun,,ドレシア（アイカツプラネット！）
+ぐろっしーるびー,グロッシールビー,proper_noun,,ドレシア（アイカツプラネット！）
+らぶさじたりうす,ラブサジタリウス,proper_noun,,ドレシア（アイカツプラネット！）
+さじたりうすみるきーうぇい,サジタリウスミルキーウェイ,proper_noun,,ドレシア（アイカツプラネット！）
+のーぶるれお,ノーブルレオ,proper_noun,,ドレシア（アイカツプラネット！）
+ぶらっでぃろっく,ブラッディロック,proper_noun,,ドレシア（アイカツプラネット！）
+ひっぷほっぷぶれいく,ヒップホップブレイク,proper_noun,,ドレシア（アイカツプラネット！）
+わんだーらんどている,ワンダーランドテイル,proper_noun,,ドレシア（アイカツプラネット！）
+あいびーすりーぴんぐ,アイビースリーピング,proper_noun,,ドレシア（アイカツプラネット！）
+すうぃーとほーるけーき,スウィートホールケーキ,proper_noun,,ドレシア（アイカツプラネット！）
+ぽっぷめろんくれーぷ,ポップメロンクレープ,proper_noun,,ドレシア（アイカツプラネット！）
+らぐじゅありーろーぜ,ラグジュアリーローゼ,proper_noun,,ドレシア（アイカツプラネット！）
+ろーぜゆぐどらしる,ローゼユグドラシル,proper_noun,,ドレシア（アイカツプラネット！）
+りゅくすさんふらわー,リュクスサンフラワー,proper_noun,,ドレシア（アイカツプラネット！）
+おーとくちゅーるみらー,オートクチュールミラー,proper_noun,,ドレシア（アイカツプラネット！）
+もだんおーでぱるふぁむ,モダンオーデパルファム,proper_noun,,ドレシア（アイカツプラネット！）
+みすてぃかるけりゅねいあ,ミスティカルケリュネイア,proper_noun,,ドレシア（アイカツプラネット！）
+ふぇありー,フェアリー,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+じゅえる,ジュエル,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+みゅーじっく,ミュージック,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+ほろすこーぷ,ホロスコープ,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+すとーりー,ストーリー,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+すうぃーつ,スウィーツ,proper_noun,,ドレシアのタイプ（アイカツプラネット！）
+ふらわー,フラワー,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+こすめ,コスメ,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+かふぇ,カフェ,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+ふるーつ,フルーツ,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+あくありうむ,アクアリウム,proper_noun,ambiguous,ドレシアのタイプ（アイカツプラネット！）
+めるてぃーはうす,メルティーハウス,proper_noun,,ブランド/ドレシアのタイプ（アイカツプラネット！）
+めるてぃーはうす,MELTYHOUSE,proper_noun,,ブランド/ドレシアのタイプ（アイカツプラネット！）

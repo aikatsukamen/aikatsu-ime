@@ -23,6 +23,13 @@
       "default_flags": ""
     },
     {
+      "id": "singers",
+      "label": "歌唱担当",
+      "file": "data/singers.csv",
+      "default_pos": "person_full",
+      "default_flags": ""
+    },
+    {
       "id": "songs",
       "label": "楽曲",
       "file": "data/songs.csv",
