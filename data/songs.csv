@@ -1,17 +1,247 @@
 reading,surface,pos,flags,note
-あいどるあくてぃびてぃ,アイドルアクティビティ！,proper_noun,,
-かれんだーがーる,カレンダーガール,proper_noun,,
-だいやもんどはっぴー,ダイヤモンドハッピー,proper_noun,,
-ぐっもーにみるふぃーゆ,グッモーニミルフィーユ,proper_noun,,
-がらすどーる,硝子ドール,proper_noun,,
-おりじなるすたー,オリジナルスター☆彡,proper_noun,,
-むーんらいとですてぃにー,ムーンライトdestiny,proper_noun,,
-とらっぷおぶらぶ,Trap of Love,proper_noun,,
-ぷりずむすぱいらる,prism spiral,proper_noun,,
-むーぶおんなう,Move on now!,proper_noun,,
-きらぱわー,KIRA☆Power,proper_noun,,
-でゅでゅわどぅーいっと,Du-Du-Wa DO IT!!,proper_noun,,
-しゃいにんぐらいん,SHINING LINE*,proper_noun,,
-しぐならいず,Signalize!,proper_noun,,
-すたーだむ,STARDOM!,proper_noun,,
-えぴそーどそろ,episode Solo,proper_noun,,
+しぐならいず,Signalize!,proper_noun,,アイカツ！
+かれんだーがーる,カレンダーガール,proper_noun,,アイカツ！
+だいやもんどはっぴー,ダイヤモンドハッピー,proper_noun,,アイカツ！
+ひらりひとりきらり,ヒラリ/ヒトリ/キラリ,proper_noun,,アイカツ！
+きらぱわー,KIRA☆Power,proper_noun,,アイカツ！
+おりじなるすたー,オリジナルスター☆彡,proper_noun,,アイカツ！
+しゃいにんぐらいん,SHINING LINE*,proper_noun,,アイカツ！
+ぷれしゃす,Precious,proper_noun,,アイカツ！
+どぅどぅわどぅーいっと,Du-Du-Wa DO IT!!,proper_noun,,アイカツ！
+ぐっどもーにんぐまいどりーむ,Good morning my dream,proper_noun,,アイカツ！
+らぶりーぱーてぃーこれくしょん,Lovely Party Collection,proper_noun,,アイカツ！
+ちゅちゅばれりーな,チュチュ・バレリーナ,proper_noun,,アイカツ！
+すたーとだっしゅせんせーしょん,START DASH SENSATION,proper_noun,,アイカツ！
+らっきーとれいん,lucky train!,proper_noun,,アイカツ！
+あいどるかつどう,アイドル活動!,proper_noun,,アイカツ！
+むーぶおんなう,Move on now!,proper_noun,,アイカツ！
+えんじぇるすのー,Angel Snow,proper_noun,,アイカツ！
+ぐろーいんぐふぉーあどりーむ,Growing for a dream,proper_noun,,アイカツ！
+ぷりずむすぱいらる,prism spiral,proper_noun,,アイカツ！
+とらっぷおぶらぶ,Trap of Love,proper_noun,,アイカツ！
+まよなかのすかいはい,真夜中のスカイハイ,proper_noun,,アイカツ！
+すりりんぐどりーむ,Thrilling Dream,proper_noun,,アイカツ！
+がらすどーる,硝子ドール,proper_noun,,アイカツ！
+ふぁっしょんちぇっく,fashion check!,proper_noun,,アイカツ！
+ていくみーはいやー,Take Me Higher,proper_noun,,アイカツ！
+ほうかごぽにーてーる,放課後ポニーテール,proper_noun,,アイカツ！
+じーせんじょうのしゃいにんぐすかい,G線上のShining Sky,proper_noun,,アイカツ！
+みぎまわりわんだーらんど,右回りWonderland,proper_noun,,アイカツ！
+おなじほしのしあわせに,同じ地球のしあわせに,proper_noun,,アイカツ！
+おなじちきゅうのしあわせに,同じ地球のしあわせに,proper_noun,,アイカツ！
+うぇいくあっぷまいみゅーじっく,Wake up my music,proper_noun,,アイカツ！
+むーんらいとですてぃにー,Moonlight destiny,proper_noun,,アイカツ！
+みんなだいすきぽっぷんぽっぷこーん,みんな大好きポップンポップコーン,proper_noun,,アイカツ！
+さまさまばけーしょん,さまさまばけーしょん!,proper_noun,,アイカツ！
+ありすぶるーのきす,アリスブルーのキス,proper_noun,,アイカツ！
+うぃーうぃっしゅゆーあめりーくりすます,We wish you a merry Christmas,proper_noun,,アイカツ！
+しんちょこれーとじけん,新・チョコレート事件,proper_noun,,アイカツ！
+きらぱたしゃいにんぐ,Kira・pata・shining,proper_noun,,アイカツ！
+まじかるたいむ,マジカルタイム,proper_noun,,アイカツ！
+だんすいんざれいん,Dance in the rain,proper_noun,,アイカツ！
+えがおのさんきゃっちゃー,笑顔のSuncatcher,proper_noun,,アイカツ！
+ちゅーちゅーれいんぼー,CHU-CHU♡RAINBOW,proper_noun,,アイカツ！
+すいーとすぱいす,Sweet Sp!ce,proper_noun,,アイカツ！
+えいえんのともしび,永遠の灯,proper_noun,,アイカツ！
+おーろらぷりんせす,オーロラプリンセス,proper_noun,,アイカツ！
+みとれじゃーの,ミトレジャーノ!,proper_noun,,アイカツ！
+きらきらでいず,キラキラ☆デイズ,proper_noun,,アイカツ！
+あいかつもーど,AIKATSU MODE,proper_noun,,アイカツ！
+はっぴぃくれっしぇんど,ハッピィクレッシェンド,proper_noun,,アイカツ！
+おとなもーど,オトナモード,proper_noun,,アイカツ！
+すとれんじゃーえいりあん,stranger alien,proper_noun,,アイカツ！
+あらびあんろまんす,アラビアンロマンス,proper_noun,,アイカツ！
+はーとのめろでぃー,ハートのメロディー,proper_noun,,アイカツ！
+だんしんぐべいびー,ダンシング☆ベイビー,proper_noun,,アイカツ！
+ふれんど,フレンド,proper_noun,ambiguous,アイカツ！
+みらくるとらべる,みらくる☆トラベル,proper_noun,,アイカツ！ たまごっちコラボコレクション
+れっつあいかつ,Let's アイカツ!,proper_noun,,アイカツ！
+こいいろぱっしょん,恋色パッション,proper_noun,,アイカツ！
+かがやきのえちゅーど,輝きのエチュード,proper_noun,,アイカツ！
+ぐっばいてぃあーず,グッバイ・ティアーズ,proper_noun,,アイカツ！
+たるとたたん,タルト・タタン,proper_noun,ambiguous,アイカツ！
+ぱっしょんふらわー,Passion Flower,proper_noun,,アイカツ！
+はろーうぃんたーらぶ,はろー! Winter Love♪,proper_noun,,アイカツ！
+あいがーる,愛がーる,proper_noun,,アイカツ！
+ぷりてぃぷりてぃ,Pretty Pretty,proper_noun,,アイカツ！
+ぶるーみんぐぶるーみんぐ,Blooming♡Blooming,proper_noun,,アイカツ！
+まいしょーたいむ,MY SHOW TIME!,proper_noun,,アイカツ！
+らぶりーぼむ,ラブリー☆ボム,proper_noun,,アイカツ！
+こいするみたいなきゃらめりぜ,恋するみたいなキャラメリゼ,proper_noun,,アイカツ！
+ぽっぴんばぶるす,Poppin' Bubbles,proper_noun,,アイカツ！
+みわくのぱーてぃー,魅惑のパーティー,proper_noun,,アイカツ！
+はろーにゅーわーるど,ハローニューワールド,proper_noun,,アイカツ！
+へいりとるがーる,Hey! little girl,proper_noun,,アイカツ！
+ちかちか,Chica×Chica,proper_noun,,アイカツ！
+さまーまじっく,サマー☆マジック,proper_noun,,アイカツ！
+うすべにでいとりっぱー,薄紅デイトリッパー,proper_noun,,アイカツ！
+すいーとはーとれすとらん,Sweet Heart Restaurant,proper_noun,,アイカツ！
+えめらるどのまほう,エメラルドの魔法,proper_noun,,アイカツ！
+りるびーりるうぃん,リルビーリルウィン♪,proper_noun,,アイカツ！
+すまいるじゃんぷ,スマイル・ジャンプ,proper_noun,,アイカツ！
+やくそくからっと,約束カラット,proper_noun,,アイカツ！
+ろんりーぐらびてぃ,ロンリー・グラヴィティ,proper_noun,,アイカツ！
+いばらのじょおう,いばらの女王,proper_noun,,アイカツ！
+らぶげーむ,LOVE GAME,proper_noun,,アイカツ！
+みえるみえーる,ミエルミエール,proper_noun,,アイカツ！
+はろーはろー,ハローハロー,proper_noun,,アイカツ！
+しあわせほうていしき,シアワセ方程式,proper_noun,,アイカツ！
+らんらんどぅらんらん,ラン・ラン・ドゥ・ラン・ラン!,proper_noun,,アイカツ！
+まいすたーうぇい,MY STARWAY,proper_noun,,アイカツ！
+とらべるりぼん,TRAVEL RIBBON,proper_noun,,アイカツ！
+こおりのもり,氷の森,proper_noun,,アイカツ！
+すたーとらいん,スタートライン!,proper_noun,,アイカツスターズ！
+えぴそーどそろ,episode Solo,proper_noun,,アイカツスターズ！
+わんつーしんぐふぉーゆー,"1,2,Sing for You!",proper_noun,,アイカツスターズ！
+そーびゅーてぃふるすとーりー,So Beautiful Story,proper_noun,,アイカツスターズ！
+すたーじぇっと,スタージェット!,proper_noun,,アイカツスターズ！
+すたーだむ,STARDOM!,proper_noun,,アイカツスターズ！
+ぼんぼんぼやーじゅ,Bon Bon Voyage!,proper_noun,,アイカツスターズ！
+みゅーじっくおぶどりーむ,MUSIC of DREAM!!!,proper_noun,,アイカツスターズ！
+もりのひかりのぴるえっと,森のひかりのピルエット,proper_noun,,アイカツスターズ！
+あいかつすてっぷ,アイカツ☆ステップ!,proper_noun,,アイカツスターズ！
+みらくるふぉーすまじっく,Miracle Force Magic,proper_noun,,アイカツスターズ！
+みらいとらんじっと,未来トランジット,proper_noun,,アイカツスターズ！
+はーとがすきっぷ,ハートがスキ♡ップ,proper_noun,,アイカツスターズ！
+みつばちのきす,みつばちのキス,proper_noun,,アイカツスターズ！
+はちがつのまりーな,8月のマリーナ,proper_noun,,アイカツスターズ！
+さまーてぃあーずだいありー,Summer Tears Diary,proper_noun,,アイカツスターズ！
+ときめきららん,トキメキララン☆,proper_noun,,アイカツスターズ！
+ぽっぷこーんどりーみんぐ,POPCORN DREAMING♪,proper_noun,,アイカツスターズ！
+どりーみんぐばーど,Dreaming bird,proper_noun,,アイカツスターズ！
+わんすてっぷ,One Step,proper_noun,,アイカツスターズ！
+どりーむすてーじ,ドリームステージ☆,proper_noun,,アイカツスターズ！
+はろうぃんないとまじっく,Halloween Night Magic,proper_noun,,アイカツスターズ！
+きみをろっくおん,キミをロックオン,proper_noun,,アイカツスターズ！
+だんしんぐでいず,Dancing Days,proper_noun,,アイカツスターズ！
+あにまるかーにばる,アニマルカーニバル,proper_noun,,アイカツスターズ！
+つぼみあざやかなみらいへ,TSU-BO-MI～鮮やかな未来へ～,proper_noun,,アイカツスターズ！
+ぼくらのきせき,僕らの奇跡,proper_noun,,アイカツスターズ！
+みんなだいすきめでたいやき,みんな大好きめでたい焼き,proper_noun,,アイカツスターズ！
+はっぴーぱんち,ハッピー☆パンチ,proper_noun,,アイカツスターズ！
+おねがいめりー,おねがいメリー,proper_noun,,アイカツスターズ！
+めいくおーばーめいくあっぷ,MAKEOVER♡MAKEUP,proper_noun,,アイカツスターズ！
+こうやのきせき,荒野の奇跡,proper_noun,,アイカツスターズ！
+ふぉーえばーどりーむ,Forever Dream,proper_noun,,アイカツスターズ！
+めっせーじおぶあれいんぼー,Message of a Rainbow,proper_noun,,アイカツスターズ！
+じおんりーさんらいと,The only sun light,proper_noun,,アイカツスターズ！
+はだしのるねさんす,裸足のルネサンス,proper_noun,,アイカツスターズ！
+ねばぎば,ネバギバ☆,proper_noun,,アイカツスターズ！
+あいかつじぇねれーしょん,AIKATSU GENERATION,proper_noun,,アイカツスターズ！
+ありがとだいじょうぶ,ありがと⇄大丈夫,proper_noun,,アイカツフレンズ！
+びりーぶいっと,Believe it,proper_noun,,アイカツフレンズ！
+ぷらいど,プライド,proper_noun,ambiguous,アイカツフレンズ！
+ひとりじゃない,ひとりじゃない!,proper_noun,,アイカツフレンズ！
+びーすたー,Be Star,proper_noun,,アイカツフレンズ！
+ろくせんちうえのけしき,6cm上の景色,proper_noun,,アイカツフレンズ！
+あいでんてぃてぃ,アイデンティティ,proper_noun,ambiguous,アイカツフレンズ！
+あいであふれている,愛で溢れている,proper_noun,,アイカツフレンズ！
+がーるずびーあんびしゃす,Girls be ambitious!,proper_noun,,アイカツフレンズ！
+きみかけるわたし,個×個,proper_noun,,アイカツフレンズ！
+みつけようよ,みつけようよ♪,proper_noun,,アイカツフレンズ！
+みちびかれて,導かれて,proper_noun,,アイカツフレンズ！
+ぐうぜんひつぜん,偶然、必然。,proper_noun,,アイカツフレンズ！
+きずなしんくろはーもにー,絆～シンクロハーモニー～,proper_noun,,アイカツフレンズ！
+みんなみんな,みんなみんな!,proper_noun,,アイカツフレンズ！
+はぶあどりーむ,Have a Dream,proper_noun,,アイカツフレンズ！
+いっしょにあいかつ,いっしょにA・I・K・A・T・S・U!,proper_noun,,アイカツフレンズ！
+まかろんおんど,マカロン音頭,proper_noun,,アイカツフレンズ！
+せかいはまわる,セカイは廻る,proper_noun,,アイカツフレンズ！
+まどこころひらこう,窓-ココロ-ひらこう,proper_noun,,アイカツフレンズ！
+でぃあおーるふれんずあいをこめて,Dear ALL FRIENDS!愛をこめて!,proper_noun,,アイカツフレンズ！
+ないすなとぅーみーちゅー,Niceなto meet you!,proper_noun,,アイカツフレンズ！
+このせかいはすばらしい,この世界はすばらしい,proper_noun,,アイカツフレンズ！
+つよくやさしくうつくしく,強く優しく美しく,proper_noun,,アイカツフレンズ！
+あらたなるすてーじへ,新たなるステージへ,proper_noun,,アイカツフレンズ！
+きみのえんとらんす,君のEntrance,proper_noun,,アイカツオンパレード！
+ふゅーちゃーじゅえる,Future jewel,proper_noun,,アイカツオンパレード！
+あこがれかすたまいず,アコガレカスタマイズ☆,proper_noun,,アイカツオンパレード！
+せいぎのきもち,正義のキモチ,proper_noun,,アイカツオンパレード！
+とわいらいとえとらんぜ,トワイライトエトランゼ,proper_noun,,アイカツオンパレード！
+いんぶるーむ,In bloom,proper_noun,,アイカツオンパレード！
+こすもすさーち,コスモスサーチ,proper_noun,,アイカツオンパレード！
+ぶるーみーすまいる,Bloomy＊スマイル,proper_noun,,アイカツプラネット！
+きらりぱーてぃたいむ,キラリ☆パーティ♪タイム,proper_noun,,アイカツプラネット！
+はっぴーあいかつ,HAPPY∞アイカツ!,proper_noun,,アイカツプラネット！
+ふらいんぐちっぷす,FLYING TIPS,proper_noun,,アイカツプラネット！
+まじかるどあ,Magical Door,proper_noun,,アイカツプラネット！
+またまたまたまたまたあした,またまたまたまたまた明日,proper_noun,,アイカツプラネット！
+れでぃれでぃれでぃ,レディ・レディ・レディ,proper_noun,,アイカツプラネット！
+いんなーぼいす,Inner Voice,proper_noun,,アイカツプラネット！
+ぷちぷらえぶりでい,プチプラEveryday,proper_noun,,アイカツプラネット！
+こころのとも,ココロノトモ,proper_noun,,アイカツプラネット！
+ふぁんたじっくいまじねーしょん,ファンタジっくイマジネーション,proper_noun,,アイカツプラネット！
+ふれーばーふれーばー,フレーバーフレーバー,proper_noun,,アイカツプラネット！
+ぱられらわーるど,パラレラワールド,proper_noun,,アイカツプラネット！
+てぃっくたっくのすたるじあ,Tick×Tackノスタルジア,proper_noun,,アイカツプラネット！
+ねばーねばー,NeverNever,proper_noun,,アイカツプラネット！
+しゅびどぅびすいんぐ,Shu-Bi-Du-Bi☆スイング,proper_noun,,アイカツプラネット！
+まちかどしんでれら,街角シンデレラ,proper_noun,,アイカツプラネット！
+ぶらんどにゅーわーるど,Brand New World,proper_noun,,アイカツプラネット！
+みらいこんてぃにゅー,ミライContinue!!,proper_noun,,アイカツプラネット！
+めもりーずふぉーとぅもろー,Memories for Tomorrow,proper_noun,,アイカツアカデミー！
+まんかいえりおんと,満開!エリオント,proper_noun,,アイカツアカデミー！
+あこがれすかい,アコガレスカイ,proper_noun,,アイカツアカデミー！
+ぴーかぶー,Peek-A-Boo!!,proper_noun,,アイカツアカデミー！
+きらーちゅーん,きらー☆ちゅーん,proper_noun,,アイカツアカデミー！
+ほっぷすてっぷぽっぷこーん,ホップ・ステップ・ポップコーン,proper_noun,,アイカツアカデミー！
+げんそうないとめあ,幻想ナイトメア,proper_noun,,アイカツアカデミー！
+はっぴーりふれくしょん,HAPPY REFLECTION,proper_noun,,アイカツアカデミー！
+ぶりりあんとすたーらいと,brilliant starlight,proper_noun,,アイカツアカデミー！
+しゃいにえすときー,Shiniest Key,proper_noun,,アイカツアカデミー！
+どうわのなかのえとせとら,童話の中のエトセトラ,proper_noun,,アイカツアカデミー！
+じしょうさいきょうひーろー,自称最強ヒーロー,proper_noun,,アイカツアカデミー！
+ことのはめろでぃー,コトノハメロディー,proper_noun,,アイカツアカデミー！
+そらいろみちしるべ,空色ミチシルベ,proper_noun,,アイカツアカデミー！
+からふるれいんぼー,Colorful Rainbow,proper_noun,,アイカツアカデミー！
+うぃるびーざめいたんてい,うぃるびー・ざ・めいたんてい！,proper_noun,,アイカツアカデミー！
+かわいいうぇいくあっぷ,Kawaii☆Wake Up!,proper_noun,,アイカツアカデミー！
+はっぴーちゃってぃーぱーてぃーないと,Happy Chatty Party Night!!,proper_noun,,アイカツアカデミー！
+べるべっとしあたー,ベルベット・シアター,proper_noun,,アイカツアカデミー！
+ぶらんどにゅーきゅーと,Brand New Cute,proper_noun,,アイカツアカデミー！
+きらきらはんたー,KIRAKIRA HUNTER,proper_noun,,アイカツアカデミー！
+あんびしょん,AMBITION!,proper_noun,,アイカツアカデミー！
+かめれおんとーく,カメレオントーク★,proper_noun,,フォトカツ！
+せんちめんたるべりー,センチメンタルベリー,proper_noun,,フォトカツ！
+どらまちっくがーる,ドラマチックガール,proper_noun,,フォトカツ！
+おねがいびーなす,お願いビーナス,proper_noun,,フォトカツ！
+どりーむばるーん,ドリームバルーン,proper_noun,,フォトカツ！
+あおいいちご,青い苺,proper_noun,,フォトカツ！
+なついろばたふらい,夏色バタフライ,proper_noun,,フォトカツ！
+ぐらまらすぶるー,GLAMOUROUS BLUE,proper_noun,,フォトカツ！
+きらめきめっせんじゃー,きらめきメッセンジャー,proper_noun,,フォトカツ！
+ごしっくろっくんろーず,ゴシック・ロックン・ローズ,proper_noun,,フォトカツ！
+ぽわぷりぱわー,♡Powa×PuRi×Power♡,proper_noun,,フォトカツ！
+くりすますすたーらいと,クリスマス☆スターライト,proper_noun,,フォトカツ！
+ゆめのれせぷしょん,夢のレセプション,proper_noun,,フォトカツ！
+ときめきまたどーる,ときめきマタドール∞,proper_noun,,フォトカツ！
+すたーはーと,Star Heart,proper_noun,,フォトカツ！
+すいーとすいーとがーるずとーく,Sweet Sweet Girls' Talk,proper_noun,,フォトカツ！
+きらきらせんげん,キラキラ宣言,proper_noun,,フォトカツ！
+ほしぞらのふろあ,星空のフロア,proper_noun,,フォトカツ！
+れっどまうんてん,RED MOUNTAIN,proper_noun,,フォトカツ！
+あいかつめろでぃ,アイカツメロディ!,proper_noun,,フォトカツ！
+じゅえるすたーふれんどしっぷ,Jewel Star Friendship☆,proper_noun,,フォトカツ！
+にじいろあんこーる,虹色アンコール,proper_noun,,フォトカツ！
+ぐっどでいぐっどないと,"Good day,Good night",proper_noun,,フォトカツ！
+しょこらしょーたいむ,ショコラショー・タイム,proper_noun,,フォトカツ！
+まじっくすまいる,マジックスマイル,proper_noun,,フォトカツ！
+ときめきあんてな,トキメキアンテナ,proper_noun,,フォトカツ！
+さにーでいりとるさんでー,Sunny Day Little Sunday,proper_noun,,フォトカツ！
+きんだんはいどあんどしーく,禁断 Hide & Seek,proper_noun,,フォトカツ！
+こずみっくすとれんじゃー,コズミック・ストレンジャー,proper_noun,,フォトカツ！
+つきよのらぐたいむ,月夜のラグタイム,proper_noun,,フォトカツ！
+うぃーあーすたーず,We are STARS!!!!!,proper_noun,,フォトカツ！
+しゃいにーでい,Shiny day,proper_noun,,10th Anniversary
+ゆーあーまいべすとふれんど,You are my best friend,proper_noun,,10th Anniversary
+ぶらいてすと,Brightest,proper_noun,,10th Anniversary
+ぶれいぶりーそんぐ,Bravely song!!,proper_noun,,10th Anniversary
+えぴそーどえすふぉー,episode S4,proper_noun,,10th Anniversary
+はじまりのれじぇんど,始まりのLegend,proper_noun,,10th Anniversary
+らぶらいおっと,LOVE RIOT,proper_noun,,10th Anniversary
+しゃいなーず,SHINERS,proper_noun,,10th Anniversary
+あふたーらぶりーぱーてぃー,After Lovely Party,proper_noun,,10th Anniversary
+さいんごーどりーむ,Sign? Go! Dream!!,proper_noun,,10th Anniversary
+わたしなびげいと,ワタシナビゲイト→,proper_noun,,10th Anniversary
+はっぴーちゅーにんぐ,ハッピーチューニング,proper_noun,,アイカツ！×プリパラ
+ぷりてぃーあくてぃびてぃ,プリティー×アクティビティ,proper_noun,,アイカツ！×プリパラ

@@ -1,25 +1,217 @@
 reading,surface,pos,flags,note
-もろほしすみれ,諸星すみれ,person_full,,星宮いちご 役
-たどころあずさ,田所あずさ,person_full,,霧矢あおい 役
-おおはしあやか,大橋彩香,person_full,,紫吹蘭 役
-しもじしの,下地紫野,person_full,,有栖川おとめ / 大空あかり 役
-まつながあかね,松永あかね,person_full,,藤堂ユリカ 役
-たなかりえ,田中理恵,person_full,,神崎美月 役
-あすみかな,阿澄佳奈,person_full,,一ノ瀬かえで 役
-なかえみつき,中恵光城,person_full,,三ノ輪ヒカリ 役
-ぬまくらまなみ,沼倉愛美,person_full,,氷上スミレ 役
-いしいみさ,石井未紗,person_full,,新条ひなき 役
-おおくぼるみ,大久保瑠美,person_full,,冴草きい 役
-やまきたさき,山北早紀,person_full,,音城セイラ 役
-せりざわゆう,芹澤優,person_full,,
-もりななこ,森なな子,person_full,,虹野ゆめ 役
-やましたななみ,山下七海,person_full,,香澄真昼 役
-うちだあや,内田彩,person_full,,白鳥ひめ 役
-たなかみなみ,田中美海,person_full,,早乙女あこ 役
-おおわだひとみ,大和田仁美,person_full,,二階堂ゆず 役
-わかやましおん,若山詩音,person_full,,友希あいね 役
-もろほし,諸星,person_last,surname,姓のみ
-しもじ,下地,person_last,surname,姓のみ
-なかえ,中恵,person_last,surname,姓のみ
-ぬまくら,沼倉,person_last,surname,姓のみ
-せりざわ,芹澤,person_last,surname,姓のみ
+もろほしすみれ,諸星すみれ,person_full,,星宮いちご / 如月ツバサ / ブライトサファイア（ドレシア） 役
+たどころあずさ,田所あずさ,person_full,,霧矢あおい / 二階堂ゆず / 神城カレン ほか 役
+おおはしあやか,大橋彩香,person_full,,紫吹蘭 / 香澄夜空 / 明日香ミライ 役
+くろさわともよ,黒沢ともよ,person_full,,有栖川おとめ 役
+せとあさみ,瀬戸麻沙美,person_full,,神谷しおん 役
+ことぶきみなこ,寿美菜子,person_full,,神崎美月 役
+ぬまくらまなみ,沼倉愛美,person_full,,藤堂ユリカ 役
+やすのきよの,安野希世乃,person_full,,北大路さくら 役
+みむらゆうな,三村ゆうな,person_full,,一ノ瀬かえで 役
+すざきあや,洲崎綾,person_full,,夏樹みくる 役
+もりやさとみ,森谷里美,person_full,,三ノ輪ヒカリ / 相馬裕太 役
+しもじしの,下地紫野,person_full,,大空あかり / グロッシールビー（ドレシア） 役
+てるいはるか,照井春佳,person_full,,服部ユウ 役
+わくいゆう,和久井優,person_full,,氷上スミレ / 風間かおる / シャルルシャーロット ほか 役
+いしかわゆい,石川由依,person_full,,新条ひなき / オートクチュールミラー（ドレシア） 役
+さいとうあや,齋藤綾,person_full,,紅林珠璃 / 友希よしつね 役
+たかだゆうき,高田憂希,person_full,,黒沢凛 / 友希ももね 役
+かわかみちひろ,川上千尋,person_full,,天羽まどか 役
+こいわいことり,小岩井ことり,person_full,,大地のの 役
+ふくさなえ,福沙奈恵,person_full,,白樺リサ / 立花ミシェル / 常葉李奈 ほか 役
+いしはらかおり,石原夏織,person_full,,音城セイラ 役
+あきな,秋奈,person_full,,冴草きい 役
+たかはしみなみ,高橋未奈美,person_full,,風沢そら / 及川凛 役 2020年までの旧名義
+たかはしみなみ,髙橋ミナミ,person_full,,風沢そら / 及川凛 役 
+とみおかみさこ,冨岡美沙子,person_full,,姫里マリア / 幽木れいか / 瀬戸くくる ほか 役
+みやもとかなこ,宮本佳那子,person_full,,音城ノエル 役
+かくまあい,加隈亜衣,person_full,,音城ノエル / 美浦珊瑚 / レオナ・ストループ 役
+せきねあきら,関根明良,person_full,,藤原みやび 役
+いとうかなえ,伊藤かな恵,person_full,,栗栖ここね 役
+やのあさみ,矢野亜沙美,person_full,,堂島ニーナ / 長谷川まつり 役
+うえだれいな,上田麗奈,person_full,,花輪やよい / 白銀リリィ 役
+ふじたあかね,藤田茜,person_full,,波照間みなみ / 三森あかね / 木崎しずか 役
+やましたななみ,山下七海,person_full,,荒灘はづき 役
+まつたにかや,松谷彼哉,person_full,,光石織姫 / ミスティカルケリュネイア（ドレシア） 役
+やすむらまこと,保村真,person_full,,ジョニー別府 / 友希まさむね 役
+とよながとしゆき,豊永利行,person_full,,涼川直人 役
+きどいぶき,木戸衣吹,person_full,,氷室朝美 / 湊みお / スウィートホールケーキ（ドレシア） 役
+なづかかおり,名塚佳織,person_full,minor,新城絵麻 役
+いがらしひろみ,五十嵐裕美,person_full,minor,市原一華 / 東あさひ 役
+まつざきれい,松嵜麗,person_full,minor,西島ニノ 役
+あまみやそら,雨宮天,person_full,minor,中山ユナ 役
+きくちこころ,菊池こころ,person_full,minor,花月みう 役
+すがややよい,菅谷弥生,person_full,minor,片桐すみれ / 冴草さなえ 役
+すぎうらなほこ,杉浦奈保子,person_full,minor,柚木奈々 役
+はせがわゆら,長谷川瑜ら,person_full,minor,柚木奈々 役
+なつかわしいな,夏川椎菜,person_full,minor,黒澤ミチル 役
+みずまともみ,水間友美,person_full,minor,柚葉めい 役
+こぼりみゆき,小堀幸,person_full,minor,宮小路友美 / 青木ひなた 役
+くわはらゆうき,桑原由気,person_full,,兒玉杏奈 / 青山ちはる / 白百合かぐや 役
+やまおかゆり,山岡ゆり,person_full,minor,梅田ありさ / 伊勢涼香 役
+さいとうこなみ,齋藤小浪,person_full,minor,赤枝優子 / 花畑ナナ 役
+つじあゆみ,辻あゆみ,person_full,minor,綿貫ミミ 役
+だてありさ,伊達朱里紗,person_full,minor,幽木れいか / 玉川陽鞠 役
+なかえみつき,中恵光城,person_full,minor,水越アリサ / 桃井美香 / 白井美紗子 ほか 役
+はせみき,長谷美希,person_full,minor,二階堂うらら / 氷上あずさ 役
+ないとうあみ,内藤有海,person_full,minor,瀬戸くくる / 野々宮サキ 役
+しもやまだあやか,下山田綾華,person_full,minor,大島ユリエ 役
+しみずあやか,清水彩香,person_full,minor,西園寺つばき 役
+やまもとのぞみ,山本希望,person_full,minor,小久保ユカ 役
+けいちょうゆか,慶長佑香,person_full,minor,園田あいり / 長浜美鶴 / 雨音みらい 役
+つだしょうこ,津田匠子,person_full,minor,浅倉美和 役
+たかはしひでのり,高橋英則,person_full,minor,間宮翔 役
+しもづまよしゆき,下妻由幸,person_full,minor,ロビー鈴城 役
+きただまさみち,北田理道,person_full,minor,高瀬孝一 / 音城颯太 役
+ひらかわだいすけ,平川大輔,person_full,minor,四ツ葉春 / 諸星ヒカル / ケン・マユズミ 役
+えんどうあや,遠藤綾,person_full,,夢咲ティアラ / 片桐ナタリー 役
+あさかわゆう,浅川悠,person_full,minor,月影ほのか 役
+うがきひでなり,宇垣秀成,person_full,minor,井津藻見輝 役
+かんだあけみ,神田朱未,person_full,minor,舘石アキ / 響アンナ 役
+あさのますみ,浅野真澄,person_full,minor,羽柴サキ 役
+おきあゆりょうたろう,置鮎龍太郎,person_full,minor,Mr.S 役
+さいとうきみこ,斉藤貴美子,person_full,minor,西島サブ子 役
+とうまゆみ,冬馬由美,person_full,minor,三隅悦子 役
+まつもとけんた,松本健太,person_full,minor,徳井十九 / デーブ佐東 役
+おかだえいみ,岡田栄美,person_full,minor,小橋彩香 / 音城貴子 / 八千草桃子 役
+なかむらだいすけ,中村太亮,person_full,minor,大石たかお 役
+しんかわれい,新川麗,person_full,minor,大石たかお 役
+しまむらゆう,嶋村侑,person_full,minor,水谷郁子 役
+かわにしけんご,河西健吾,person_full,minor,長澤利夫 役
+ながのよしかず,永野善一,person_full,minor,長澤利夫 役
+たくぼしゅうへい,田久保修平,person_full,minor,長澤利夫 役
+きじまりゅういち,木島隆一,person_full,minor,三浦健司 役
+ゆうせんいさむ,祐仙勇,person_full,minor,三浦健司 役
+のじまひろふみ,野島裕史,person_full,minor,シュラト 役
+いのうえきくこ,井上喜久子,person_full,minor,天羽あすか 役
+やなかひろし,家中宏,person_full,minor,藤崎正一 役
+のじまけんじ,野島健児,person_full,minor,神代レイ 役
+そうみようこ,沢海陽子,person_full,minor,橘杏奈 役
+みきしんいちろう,三木眞一郎,person_full,minor,虹ヶ原マコト 役
+おおかわとおる,大川透,person_full,minor,夢小路魔夜 役
+つねまつあゆみ,恒松あゆみ,person_full,minor,柊リサ 役
+なかつかさゆうか,中司ゆう花,person_full,minor,柊エレナ 役
+ゆうか,ゆう花,person_full,minor,柊エレナ 役
+わたなべあけの,渡辺明乃,person_full,minor,KAYOKO 役
+たまるあつし,田丸篤志,person_full,minor,瀬名翼 / ピュアフルフェニックス（ドレシア） 役
+まつもとやすのり,松本保典,person_full,minor,エンシエロ篤 役
+さいがみつき,斎賀みつき,person_full,minor,ムレータ淳朗 / 紫面道ノア / オーロラペガサス（ドレシア） 役
+しらいしりょうこ,白石涼子,person_full,minor,如月ルーシー / ラブサジタリウス（ドレシア） 役
+のとまみこ,能登麻美子,person_full,minor,星宮りんご 役
+こやすたけひと,子安武人,person_full,minor,星宮太一 役
+たむらむつみ,田村睦心,person_full,minor,北大路左近 役
+ひかみきょうこ,氷上恭子,person_full,minor,大空小陽 役
+おぎのせいろう,荻野晴朗,person_full,minor,大空学 役
+ねやみちこ,根谷美智子,person_full,minor,紅林可憐 役
+うちだゆうや,内田夕夜,person_full,minor,カミーノ・セリオ 役
+かねもとひさこ,金元寿子,person_full,minor,エリサ別府 役
+ねもとあきひろ,根本明宏,person_full,minor,大地豊 役
+はやしかずよし,林和良,person_full,minor,白樺静生 役
+さんぺいゆうこ,三瓶由布子,person_full,minor,太田駆 役
+たにいあすか,谷井あすか,person_full,minor,持田ちまき 役
+はらさゆり,原紗友里,person_full,minor,城沢トモヨ 役
+ふじたまみ,藤田麻美,person_full,minor,近藤真子 役
+ふじたまみ,ふじたまみ,person_full,minor,近藤真子 役
+おばたのりこ,小幡記子,person_full,minor,今井瞬 役
+おばたまゆ,小幡真裕,person_full,minor,足立未来 役
+みまりえこ,美馬利恵子,person_full,minor,時任みか子 役
+よこおまり,横尾まり,person_full,minor,稲村郁代 役
+たかはしりえ,高橋李依,person_full,minor,堤なぎさ 役
+まつだりさえ,松田利冴,person_full,minor,田中健太郎 / 小倉渚 役
+とみたみゆ,富田美憂,person_full,,虹野ゆめ / ワンダーランドテイル（ドレシア） 役
+あさいあやか,朝井彩加,person_full,,桜庭ローラ / 羽原真実子 役
+やまぐちめぐみ,山口愛,person_full,,七倉小春 / アイビースリーピング（ドレシア） 役
+むらかみなつみ,村上奈津実,person_full,,早乙女あこ 役
+みやもとゆめ,宮本侑芽,person_full,,香澄真昼 役
+つだみなみ,津田美波,person_full,,白鳥ひめ 役
+ひかさようこ,日笠陽子,person_full,,エルザフォルテ / 天翔ひびき / リュクスサンフラワー（ドレシア） 役
+えぐちなこ,江口菜子,person_full,,花園きらら 役
+ふじわらなつみ,藤原夏海,person_full,,騎咲レイ 役
+まえだかおり,前田佳織里,person_full,,双葉アリア 役
+こがあおい,古賀葵,person_full,minor,飴宮愛理 役
+ゆうきかな,優木かな,person_full,minor,桂ミキ 役
+さわだみはる,澤田美晴,person_full,minor,明石咲耶 役
+やしろたく,八代拓,person_full,,結城すばる 役
+うえむらゆうと,上村祐翔,person_full,,五十嵐望 役
+らんずべりーあーさー,ランズベリー・アーサー,person_full,,吉良かなた 役
+ほりえしゅん,堀江瞬,person_full,,香澄朝陽 / ノーブルレオ（ドレシア） 役
+おきつかずゆき,興津和幸,person_full,minor,美羽玉五郎 役
+くぼたりさ,久保田梨沙,person_full,minor,御堂マユ 役
+ほしなりさ,保科李沙,person_full,minor,御堂マユ 役
+たけおあゆみ,竹尾歩美,person_full,minor,沙浄絵理 役
+ぬくいゆか,貫井柚佳,person_full,minor,寺田香奈 役
+たなかあいみ,田中あいみ,person_full,,菅野まあや / 真波マリン 役
+たかいまいか,高井舞香,person_full,minor,小田真澄 役
+たなかたかこ,田中貴子,person_full,minor,アリスキャロル / 平田ひまり 役
+おおのゆうこ,大野柚布子,person_full,minor,小倉渚 役
+たつみゆいこ,巽悠衣子,person_full,minor,赤坂いちか 役
+ながなわまりあ,長縄まりあ,person_full,minor,最中すず 役
+たかのあさみ,髙野麻美,person_full,minor,桃山千穂 役
+はせがわいくみ,長谷川育美,person_full,minor,ヨハンナ 役
+いいだゆうこ,飯田友子,person_full,minor,デイジー 役
+きのひな,木野日菜,person_full,minor,鳴瀬あゆみ 役
+きたはらさやか,北原沙弥香,person_full,minor,森きらり 役
+おがたみつる,小形満,person_full,minor,岡本二郎 役
+ほしのみつあき,星野充昭,person_full,minor,宝積甘太 役
+しもだれい,下田レイ,person_full,minor,幸本薫 役
+てらうちよりえ,寺内よりえ,person_full,minor,巻杉マキコ 役
+とうちひろき,東地宏樹,person_full,minor,西太陽 役
+なかひろし,中博史,person_full,minor,内田永吉 役
+いとうけんたろう,伊藤健太郎,person_full,minor,ピロシェンコ 役
+たまがわさきこ,玉川砂記子,person_full,minor,風上結子 役
+まじまじゅんじ,間島淳司,person_full,minor,ブラックスター 役
+もりながちとせ,森永千才,person_full,minor,マーライオンキャリー 役
+こまつふみのり,小松史法,person_full,minor,虹野大 役
+ひさかわあや,久川綾,person_full,minor,虹野景子 役
+かわしまとくよし,川島得愛,person_full,minor,七倉千秋 役
+なべいまきこ,鍋井まき子,person_full,minor,七倉夏菜 役
+こばやしさやか,小林さやか,person_full,minor,桜庭七海 役
+みついしことの,三石琴乃,person_full,minor,ユキエ・グレース・フォルテ 役
+よしむらはるか,佳村はるか,person_full,minor,前川綾乃 役
+まつながあかね,松永あかね,person_full,,友希あいね / ブラッディロック（ドレシア） 役
+みやまかれん,美山加恋,person_full,,蝶乃舞花 役
+にのみやゆい,二ノ宮ゆい,person_full,,日向エマ / ポップメロンクレープ（ドレシア） 役
+すやまえみり,陶山恵実里,person_full,,白百合さくや 役
+おおにしさおり,大西沙織,person_full,,アリシアシャーロット 役
+きとうあかり,鬼頭明里,person_full,,新海リンナ 役
+あいらりん,逢来りん,person_full,,春風わかば / 姫石らき / ヒップホップブレイク（ドレシア） 役
+ますだゆき,増田ゆき,person_full,minor,友希ねね 役
+いしやはるき,石谷春貴,person_full,minor,友希かずね 役
+かいだゆうこ,甲斐田裕子,person_full,minor,湊玲子 役
+すぎたともかず,杉田智和,person_full,minor,湊理 役
+すわべじゅんいち,諏訪部順一,person_full,minor,蝶乃拳詩郎 役
+やまぐちゆりこ,山口由里子,person_full,minor,蝶乃舞 役
+おのけんしょう,小野賢章,person_full,minor,蝶乃舞人 役
+いしだあきら,石田彰,person_full,minor,レオシャーロット 役
+おおはらさやか,大原さやか,person_full,minor,ソフィーシャーロット 役
+なかはらまい,中原麻衣,person_full,minor,円城寺たまき 役
+さとうりな,佐藤利奈,person_full,minor,蜂谷千春 役
+とりうみこうすけ,鳥海浩輔,person_full,minor,針生六四郎 役
+たかやなぎともよ,高柳知葉,person_full,minor,野々村ののは 役
+しばためい,柴田芽衣,person_full,minor,月野ツカサ 役
+つむぎりさ,紡木吏佐,person_full,minor,雪村柚姫 役
+たなかともみ,田中那実,person_full,minor,仁科にこ 役
+おのづかたかし,小野塚貴志,person_full,minor,ムッシュ・ザックバラン 役
+もりななこ,森なな子,person_full,minor,能登かがみ 役
+さいとうちわ,斎藤千和,person_full,minor,ラブリーフレンズ 役
+やはぎさゆり,矢作紗友里,person_full,minor,ラブリーフレンズ 役
+にしだのぞみ,西田望見,person_full,minor,ラブリーフレンズ 役
+あやせゆう,綾瀬有,person_full,minor,ネーヴェ 役
+たかはしななみ,高橋菜々美,person_full,minor,ネージュ 役
+つだりほ,津田里穂,person_full,minor,シューネ 役
+すぎさきりょう,杉崎亮,person_full,minor,スノーダン 役
+まきのゆい,牧野由依,person_full,minor,姫石さあや 役
+かんのまい,菅野真衣,person_full,minor,小島こころ 役
+すぎやまりほ,杉山里穂,person_full,minor,小島琴美 役
+だてかあや,伊達花彩,person_full,,音羽舞桜 役
+おぐらりお,小椋梨央,person_full,,珠樹るり 役
+みずき,瑞季,person_full,,月城愛弓 役
+ながおしずね,長尾寧音,person_full,,梅小路響子 役
+わたなべりおん,渡邊璃音,person_full,,本谷栞 役
+うのなるみ,宇野愛海,person_full,,陽明咲 役
+うのるりか,羽野瑠華,person_full,,糸井紗良 役
+あきもとさやか,秋元才加,person_full,minor,綿貫いずみ 役
+つちやしんば,土屋神葉,person_full,minor,瀬川樹 役
+さわしろみゆき,沢城みゆき,person_full,minor,ラグジュアリーローゼ（ドレシア） 役
+はなおかすみれ,花岡すみれ,person_full,minor,堂場涼香 役
+あらまきよしひこ,荒牧慶彦,person_full,minor,早柿聡一郎 役

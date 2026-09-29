@@ -13,29 +13,29 @@
     {
       "id": "names",
       "label": "キャラ・声優名",
-      "description": "キャラクター名と声優名のみ。日常変換と衝突しやすい短縮よみは含まない。まずはこれを推奨。",
-      "categories": ["characters", "voice_actors"],
-      "exclude_flags": ["ambiguous", "alias", "surname"]
+      "description": "主要キャラクター名・声優名・歌唱担当名。日常変換と衝突しやすい短縮よみ・脇役は含まない。まずはこれを推奨。",
+      "categories": ["characters", "voice_actors", "singers"],
+      "exclude_flags": ["ambiguous", "alias", "surname", "minor"]
     },
     {
       "id": "names-plus",
       "label": "キャラ・声優名 (姓・短縮よみ入り)",
-      "description": "キャラ・声優名に加えて、姓のみ・短縮よみも収録。変換候補は増えるが日常変換に影響が出る。",
-      "categories": ["characters", "voice_actors"],
+      "description": "キャラ・声優・歌唱担当名に加えて、脇役・姓のみ・短縮よみも収録。変換候補は増えるが日常変換に影響が出る。",
+      "categories": ["characters", "voice_actors", "singers"],
       "exclude_flags": []
     },
     {
       "id": "characters",
       "label": "キャラクターのみ",
-      "description": "キャラクター名のみ。",
+      "description": "主要キャラクター名のみ（脇役は含まない）。",
       "categories": ["characters"],
-      "exclude_flags": ["ambiguous", "alias", "surname"]
+      "exclude_flags": ["ambiguous", "alias", "surname", "minor"]
     },
     {
       "id": "voice-actors",
-      "label": "声優のみ",
-      "description": "声優名のみ。",
-      "categories": ["voice_actors"],
+      "label": "声優・歌唱担当のみ",
+      "description": "声優名と歌唱担当名のみ。",
+      "categories": ["voice_actors", "singers"],
       "exclude_flags": ["ambiguous", "alias"]
     },
     {
